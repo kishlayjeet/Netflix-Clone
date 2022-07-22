@@ -28,7 +28,6 @@ Hi, This is a fully working Netflix clone with TMDB API that I have built using 
 
 ## Screenshots
 
-![Website Screenshot](https://github.com/kishlayjeet/Netflix-Clone/blob/main/preview/netflix-clone1.png?raw=true)
 ![Website Screenshot](https://github.com/kishlayjeet/Netflix-Clone/blob/main/preview/netflix-clone2.png?raw=true)
 ![Website Screenshot](https://github.com/kishlayjeet/Netflix-Clone/blob/main/preview/netflix-clone3.png?raw=true)
 ![Website Screenshot](https://github.com/kishlayjeet/Netflix-Clone/blob/main/preview/netflix-clone4.png?raw=true)

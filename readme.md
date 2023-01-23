@@ -1,35 +1,45 @@
-# Netflix Clone Using TMDB API 
-Hi, This is a fully working Netflix clone with TMDB API that I have built using pure HTML, CSS, and JavaScript with node.js server.
+# Netflix Clone using TMDB API
 
-##### I don't own any rights from Netflix as a company, This website was made for educational purposes to be shown as a piece of the portfolio. There are not any commercial or monetary purposes
+Welcome to this repository containing a fully working Netflix clone built using pure HTML, CSS, and JavaScript with a Node.js server, utilizing data from the TMDB API.
 
+Please note that this website is for educational purposes only and is intended to be used as a portfolio piece. It is not intended for commercial or monetary gain and is not affiliated with Netflix Inc.
 
 ## Features
-* Looks similar to Netflix.
-* Dynamic site run on Node.js server.
-* All data is coming from TMDB API.
-* Home - Various types of movies like action, friction, romantic, scientific and many more in section wise.
-* Movie - All the details of the movies and also movie trailers, and recommendations.
-* And many more
+
+- Looks similar to Netflix
+- Dynamic site run on a Node.js server
+- All data is coming from the TMDB API
+- Homepage includes various sections for different movie genres such as action, fiction, romantic, science and many more
+- Movie page includes all details of the movies, trailers, and recommendations
+  and many more
 
 ## Installation
-* Clone the repository
-* Then install the node js
-* Install node modules then start the server
-* Add your TMDB API token in the api.js file
-* Done :)
+
+1. Clone the repository
+2. Install Node.js
+3. Install the necessary node modules
+4. Start the server
+5. Add your TMDB API token in the api.js file
+6. Done!
 
 ## Libraries/Technologies used
-* Html
-* CSS
-* JavaScript
-* TMDB API
-* Node.js
+
+- HTML
+- CSS
+- JavaScript
+- TMDB API
+- Node.js
 
 ## Screenshots
 
-![Website Screenshot](https://github.com/kishlayjeet/Netflix-Clone/blob/main/preview/netflix-clone2.png?raw=true)
-![Website Screenshot](https://github.com/kishlayjeet/Netflix-Clone/blob/main/preview/netflix-clone3.png?raw=true)
-![Website Screenshot](https://github.com/kishlayjeet/Netflix-Clone/blob/main/preview/netflix-clone4.png?raw=true)
+![Website Screenshot](https://imgur.com/cuzVDEh.png)
+![Website Screenshot](https://imgur.com/UgzriH0.png)
+![Website Screenshot](https://imgur.com/BTflCoT.png)
 
+## Disclaimer
 
+Please note that the code provided in this repository may not be the most efficient or optimal solution and is intended for educational purposes only. It is recommended to use this code as a reference or starting point and to try building your own version of the project before looking at the solutions.
+
+## Conclusion
+
+This repository provides a fully functional Netflix clone built using pure HTML, CSS, and JavaScript with a Node.js server utilizing data from the TMDB API. It is intended for educational purposes and can be used as a portfolio piece. Use the code provided in this repository as a reference or starting point and try building your own version of the project.
